@@ -1,0 +1,14 @@
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\bin\Debug\net9.0\wt-lab3-3mvc-mamedova.exe
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\bin\Debug\net9.0\wt-lab3-3mvc-mamedova.deps.json
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\bin\Debug\net9.0\wt-lab3-3mvc-mamedova.runtimeconfig.json
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\bin\Debug\net9.0\wt-lab3-3mvc-mamedova.dll
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\bin\Debug\net9.0\wt-lab3-3mvc-mamedova.pdb
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\wt-lab3-3mvc-mamedova.GeneratedMSBuildEditorConfig.editorconfig
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\wt-lab3-3mvc-mamedova.AssemblyInfoInputs.cache
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\wt-lab3-3mvc-mamedova.AssemblyInfo.cs
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\wt-lab3-3mvc-mamedova.csproj.CoreCompileInputs.cache
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\wt-lab3-3mvc-mamedova.dll
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\refint\wt-lab3-3mvc-mamedova.dll
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\wt-lab3-3mvc-mamedova.pdb
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\wt-lab3-3mvc-mamedova.genruntimeconfig.cache
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab3\wt-lab3-3mvc-mamedova\obj\Debug\net9.0\ref\wt-lab3-3mvc-mamedova.dll
